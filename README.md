@@ -27,10 +27,6 @@
 
 
 <p align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" style="max-width: 100%;"></a>
-<br>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/pc.png" alt="pc" width="100" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png"><img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/pc.png" alt="pc" width="100" style="max-width: 100%;"></a>
-
-
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/57c6a793d9f04a180117b991c44b653c1dab48a3/icons/blender.svg" alt="pc" width="100" style="max-width: 100%;"></a>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/57c6a793d9f04a180117b991c44b653c1dab48a3/icons/csharp.svg" alt="pc" width="100" style="max-width: 100%;"></a>
 </p>
