@@ -30,3 +30,11 @@
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/57c6a793d9f04a180117b991c44b653c1dab48a3/icons/blender.svg" alt="pc" width="100" style="max-width: 100%;"></a>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/57c6a793d9f04a180117b991c44b653c1dab48a3/icons/csharp.svg" alt="pc" width="100" style="max-width: 100%;"></a>
 </p>
+
+<h1 align="left">Контакты : </h1>
+
+<a href="https://steamcommunity.com/id/12234131/" rel="nofollow">
+  <img align="left" alt="Steam" width="130" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/steam.png" style="max-width: 100%;">
+</a>
+
+
