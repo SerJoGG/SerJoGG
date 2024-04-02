@@ -33,10 +33,10 @@
 <h1 align="left">Контакты : </h1>
 
 <a href="https://steamcommunity.com/id/12234131/" rel="nofollow">
-  <img align="left" alt="Steam" width="130" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/raw/master/assets/icons/steam.png" style="max-width: 100%;">
+  <img align="left" alt="Steam" width="130" src="https://raw.githubusercontent.com/simple-icons/simple-icons/57c6a793d9f04a180117b991c44b653c1dab48a3/icons/steam.svg" style="max-width: 100%;">
 </a>
 <a href="https://steamcommunity.com/id/12234131/" rel="nofollow">
-  <img align="left" alt="VK" width="130" src="[https://вираж-36.рф/wp-content/uploads/2017/10/vk_com1600.png" style="max-width: 100%;">
+  <img align="left" alt="VK" width="130" src="https://raw.githubusercontent.com/simple-icons/simple-icons/57c6a793d9f04a180117b991c44b653c1dab48a3/icons/vk.svg" style="max-width: 100%;">
 </a>
 
 
