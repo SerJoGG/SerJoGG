@@ -22,7 +22,7 @@
 <li>✨ Моделирование</li>
 
 
-<h1 align="left" width="16" height="16">Инструменты и языки  <img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="32"/> : </h1>
+<h1 align="left" width="16" height="16">Инструменты и языки  <img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="55"/> : </h1>
 
 
 <p align="center" dir="auto">
